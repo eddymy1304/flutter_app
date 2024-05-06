@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 void main() {
+  debugPrint('Run App');
   runApp(MyApp());
 }
 
